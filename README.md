@@ -1,4 +1,4 @@
-# Probability and Statistics for Policy Analysis
+# Probability and Statistics (for Policy Analysis)
 
 This repository is for **Probability and Statistics for Policy Analysis**, the Term 1 course in the Master in International Relations (MIR), SPEGA, IE University (SEP-2026 S-2).
 
