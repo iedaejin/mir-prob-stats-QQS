@@ -1,6 +1,6 @@
 # Probability and Statistics (for Policy Analysis)
 
-This repository is for **Probability and Statistics for Policy Analysis**, the Term 1 course in the Master in International Relations (MIR), SPEGA, IE University (SEP-2026 S-2).
+This repository is for **Probability and Statistics (for Policy Analysis)**, the Term 1 course in the Master in International Relations (MIR), SPEGA, IE University (SEP-2026 S-2).
 
 It is a session-by-session map from that course’s syllabus to the code and data in [kosukeimai/qss](https://github.com/kosukeimai/qss), the supplementary materials for Imai & Webb Williams, *Quantitative Social Science: An Introduction in tidyverse*. Use the tidyverse files (`*-tidy`). This repository does not copy the textbook or the QSS code; it only points to the sections assigned in class.
 
