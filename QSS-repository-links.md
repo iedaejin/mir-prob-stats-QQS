@@ -5,6 +5,14 @@
 **Faculty:** Dae-Jin Lee · daelee@faculty.ie.edu · IE University — Scitech  
 **Book:** Imai & Webb Williams, *Quantitative Social Science: An Introduction in tidyverse* (Princeton University Press), as assigned in the syllabus.
 
+## Attribution
+
+Kosuke Imai and Nora Webb Williams wrote *Quantitative Social Science: An Introduction in tidyverse* (Princeton University Press). Copyright in the book remains with the authors and Princeton University Press.
+
+The code and data linked below are theirs. They are published in [kosukeimai/qss](https://github.com/kosukeimai/qss) under the [GNU General Public License, version 2](https://github.com/kosukeimai/qss/blob/master/LICENSE). This guide does not copy those files. It only links to the sections assigned in this course.
+
+The session map itself was written for Probability and Statistics for Policy Analysis (MIR, IE University). It is not a work of the QSS authors.
+
 Repository: [kosukeimai/qss](https://github.com/kosukeimai/qss).  
 The syllabus follows the tidyverse edition. In each chapter folder, the files to use are the ones with `-tidy` in the name (`*.R`, `*.Rmd`, `*.pdf`). The files without `-tidy` are the original 2017 base-R scripts.
 

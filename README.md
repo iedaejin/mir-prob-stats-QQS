@@ -2,7 +2,15 @@
 
 This repository is for **Probability and Statistics (for Policy Analysis)**, the Term 1 course in the Master in International Relations (MIR), SPEGA, IE University (SEP-2026 S-2).
 
-It is a session-by-session map from that course’s syllabus to the code and data in [kosukeimai/qss](https://github.com/kosukeimai/qss), the supplementary materials for Imai & Webb Williams, *Quantitative Social Science: An Introduction in tidyverse*. Use the tidyverse files (`*-tidy`). This repository does not copy the textbook or the QSS code; it only points to the sections assigned in class.
+It is a session-by-session map from that course’s syllabus to the code and data in [kosukeimai/qss](https://github.com/kosukeimai/qss). Use the tidyverse files (`*-tidy`).
+
+## Attribution
+
+Kosuke Imai and Nora Webb Williams wrote *Quantitative Social Science: An Introduction in tidyverse* (Princeton University Press). Copyright in the book remains with the authors and Princeton University Press.
+
+The code and data linked here are theirs. They are published in [kosukeimai/qss](https://github.com/kosukeimai/qss) under the [GNU General Public License, version 2](https://github.com/kosukeimai/qss/blob/master/LICENSE). This repository does not copy those files. It only links to the sections assigned in class.
+
+The session map was written for this course. It is not a work of the QSS authors.
 
 **Faculty:** Dae-Jin Lee · daelee@faculty.ie.edu · IE University — Scitech
 
@@ -14,6 +22,14 @@ The full guide is below and in [`QSS-repository-links.md`](QSS-repository-links.
 **Programme:** Master in International Relations (MIR), SPEGA · Term 1, SEP-2026 S-2  
 **Faculty:** Dae-Jin Lee · daelee@faculty.ie.edu · IE University — Scitech  
 **Book:** Imai & Webb Williams, *Quantitative Social Science: An Introduction in tidyverse* (Princeton University Press), as assigned in the syllabus.
+
+## Attribution
+
+Kosuke Imai and Nora Webb Williams wrote *Quantitative Social Science: An Introduction in tidyverse* (Princeton University Press). Copyright in the book remains with the authors and Princeton University Press.
+
+The code and data linked below are theirs. They are published in [kosukeimai/qss](https://github.com/kosukeimai/qss) under the [GNU General Public License, version 2](https://github.com/kosukeimai/qss/blob/master/LICENSE). This guide does not copy those files. It only links to the sections assigned in this course.
+
+The session map itself was written for Probability and Statistics for Policy Analysis (MIR, IE University). It is not a work of the QSS authors.
 
 Repository: [kosukeimai/qss](https://github.com/kosukeimai/qss).  
 The syllabus follows the tidyverse edition. In each chapter folder, the files to use are the ones with `-tidy` in the name (`*.R`, `*.Rmd`, `*.pdf`). The files without `-tidy` are the original 2017 base-R scripts.
